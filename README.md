@@ -2,6 +2,7 @@
 
 <h1>A fresh cheat for Rage MP</h1>
 
+![maxresdefault](https://github.com/strongestchich/RAGE-MP-cheat/assets/173388031/159aa0c9-4a6a-4672-979f-83e50b88cc27)
 
 
 <h2>ESP Section</h2>
@@ -73,3 +74,4 @@ Restoring health, armor
 Reducing health
 
 Free camera with TP function
+
